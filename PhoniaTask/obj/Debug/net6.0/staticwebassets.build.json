@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "6UHB4fz91cfj7TMBtEvPxLa1GMCMGXOxW2XeDXTqOvc=",
+  "Source": "PhoniaTask",
+  "BasePath": "_content/PhoniaTask",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PhoniaTask\\wwwroot",
+      "Source": "PhoniaTask",
+      "ContentRoot": "C:\\Users\\orkha\\OneDrive\\Masaüstü\\AB106T\\PhoniaTask\\PhoniaTask\\wwwroot\\",
+      "BasePath": "_content/PhoniaTask",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
